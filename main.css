@@ -1,8 +1,0 @@
-.container {
-    display: flex;
-    flex-direction: column;
-    width: 300px;
-    box-shadow: 3px 3px 10px rgba(1, 2, 3, 0.15);
-    border-top: 5px solid #009578;
-    border-bottom: 5px solid #009578;
-}
